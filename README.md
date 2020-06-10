@@ -1,1 +1,2 @@
-# trading_strategy
+# Trading Strategy Research Project 
+### Summer 2020
